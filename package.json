@@ -1,6 +1,6 @@
 {
   "name": "ractive-lazyload-img",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Ractive decorator that lazy-loads images when they get close to in view",
   "main": "index.js",
   "scripts": {
