@@ -1,0 +1,27 @@
+{
+  "name": "ractive-lazyload-img",
+  "version": "1.0.0",
+  "description": "A Ractive decorator that lazy-loads images when they get close to in view",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TehShrike/ractive-lazyload-img.git"
+  },
+  "keywords": [
+    "ractive",
+    "img",
+    "image",
+    "lazy",
+    "load",
+    "lazyload"
+  ],
+  "author": "TehShrike",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/TehShrike/ractive-lazyload-img/issues"
+  },
+  "homepage": "https://github.com/TehShrike/ractive-lazyload-img#readme"
+}
