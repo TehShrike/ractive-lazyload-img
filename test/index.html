@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Test</title>
+	</head>
+	<body>
+		<div id="content">
+
+		</div>
+		<script type="text/html" id="template">
+			<ul>
+				{{#numbers}}
+					<li style="margin-top: 400px">
+						<img src="./transparent-pixel.png" as-lazy="'./fixture.png?cachebuster=' + this">
+					</li>
+				{{/}}
+			</ul>
+		</script>
+		<script src="./build.js"></script>
+	</body>
+</html>
